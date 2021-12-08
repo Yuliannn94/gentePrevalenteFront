@@ -10,20 +10,13 @@
 
 
 .NavBar {
-  font-family: Roboto;
 position: absolute;
 width: 100vw;
 height: 70px;
-
+margin-left: 0%;
+margin-right: 0%;
+background: #2F3337
 }
 
-.GrayNavBarGDM{
-  position: absolute;
-  width: 1440px;
-  height: 70px;
-  left: 0px;
-  top: 0px;
-  background: #2F3337;
-}
 
 
