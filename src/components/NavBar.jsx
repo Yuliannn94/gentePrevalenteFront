@@ -12,6 +12,7 @@ const NavBar = () => {
       </div>
     );
   };
+  
 
   return (
     <div className="NavBar mx-12 my-0">
@@ -21,12 +22,12 @@ const NavBar = () => {
           Gente Prevalente
         </ol>
 
-        <ol><i className="fas fa-search" />Buscar...</ol>
-        <ol><i className="fas fa-cogs" /><span className="font-bold">Administración</span></ol>
-        <ol><i className="fas fa-suitcase" /><span className="font-bold">Empleo</span></ol>
-        <ol><i className="fas fa-clipboard-list" /><span className="font-bold">Mi CV</span></ol>
-        <ol><i className="fas fa-user"/><span className="font-bold">Perfil
-          <i className="fas fa-chevron-down" />
+        <ol><i className="fas fa-search p-2" />Buscar...</ol>
+        <ol><i className="fas fa-cogs p-2" /><span className="font-bold">Administración</span></ol>
+        <ol><i className="fas fa-suitcase p-2" /><span className="font-bold">Empleo</span></ol>
+        <ol><i className="fas fa-clipboard-list p-2" /><span className="font-bold">Mi CV</span></ol>
+        <ol><i className="fas fa-user p-2"/><span className="font-bold">Perfil
+          <i className="fas fa-chevron-down p-2" />
         </span></ol>
       </ul>
     </div>
