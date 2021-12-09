@@ -8,7 +8,7 @@ import CardGestionEmpresas from '../components/CardGestionEmpresas';
 const Index = () => {
     return (
         <div>
-            <div className='w-full h-full space-x- flex bg-transparent'>
+            <div className='w-full h-full space-x-4 flex bg-transparent'>
                 <CardEmpresas />
                 <CardGestionEmpresas />
 

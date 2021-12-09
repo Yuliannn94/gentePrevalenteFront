@@ -7,7 +7,7 @@ const CardEmpleados = () => {
             <div className="w-full">
                 <div className="w-full bg-transparent h-48 rounded-t-lg"></div>
                 <div className="absolute -mt-9 ml-5 flex flex-col items-center">
-                    <div className="bg-blue-400  border-gray-400 h-28 w-28 rounded-lg shadow-md border-b border-primary"><i className="fas fa-user-tie p-6   text-white text-6xl" /></div>
+                    <div className="azul border-gray-400 h-28 w-28 rounded-lg shadow-md border-b border-primary"><i className="fas fa-user-tie p-6   text-white text-6xl" /></div>
                 </div>
             </div>
 
