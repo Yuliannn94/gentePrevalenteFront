@@ -17,7 +17,7 @@ const CardEmpresas = () => {
                 </div>
             </Link>
 
-            <div className="bg-primary border border-primary rounded-2xl px-5 py-32 flex flex-col">
+            <div className="bg-gray-50 border border-primary rounded-2xl px-5 py-32 flex flex-col">
                 <Link to='/administracion/gestionEmpresas'>
                     <div className="text-sm  mt-2 text-gray-800">
                         <span className="text-4xl font-normal font-sans hover:text-black">

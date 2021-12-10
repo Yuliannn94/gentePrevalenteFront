@@ -9,7 +9,7 @@ const PublicLayout = () => {
     return (
         <div className="App">
             <NavBar />
-            <div className='w-full h-full overflow-y-scroll'>
+            <div className='w-full h-full bg-gray-200 overflow-y-scroll'>
                 <Outlet />
             </div>
         </div>
